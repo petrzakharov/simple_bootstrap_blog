@@ -1,0 +1,12 @@
+{
+    "editor.rulers": [
+        80
+    ],
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 13.7,
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 0.4,
+    "editor.smoothScrolling": true
+}
