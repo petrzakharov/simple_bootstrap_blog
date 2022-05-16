@@ -10,9 +10,13 @@ img {
     max-width: 100%;
     height: auto;
 }
+a.about-author {
+    color: #626262;
+}
 a {
     color: #ffffff;
 }
+
 a:hower{
     color: #626262;
 }
