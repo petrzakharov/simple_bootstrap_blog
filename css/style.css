@@ -1,34 +1,69 @@
-.carousel-item {
-    height: 20rem;
+body {
+    min-width: 320px;
+    font-size: 14px;
+    color: #626262;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+a {
+    color: #ffffff;
+}
+a:hower{
+    color: #626262;
+}
+h6.card-category{
+    color: #6262626d;
+    margin-top: 10px;
+}
+header .nav-item {
+    text-transform: uppercase;
+}
+.container.slider {
+    margin-bottom: 20px;
+}
+.grid-posts {
+    margin: 40px 0px 40px 0px;
 
 }
-
-.home-slider {
-    padding: 0;
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
 }
-
-.home-slider h5 {
-    font-size: 60px;
+.load-more {
+    margin-top: 20px;
+    width: 100%;
 }
-
-.home-slider p {
-    font-size: 30px;
+.col nav {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
-
-.carousel-caption {
-    bottom: 10px;
+.category-name {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
 }
-
-.carousel-item {
-    height: 20rem;
+form {
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-
-/* .card {
-    height: 20rem;
-
-} */
-
-/* .card-img-top {
-    height: 10rem;
-
-} */
+.author-mail {
+    padding-left: 10px;
+}
+footer {
+    background-color: #343A3F;
+    margin-top: auto;
+}
+.footer-about{
+    color:white;
+}
+.card-text {
+    padding-top: 30px;
+}
